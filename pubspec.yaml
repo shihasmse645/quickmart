@@ -24,6 +24,7 @@ dependencies:
   shimmer: ^3.0.0
   google_fonts: ^8.0.2
   flutter_launcher_icons: ^0.14.4
+  carousel_slider: ^5.1.2
 
 dev_dependencies:
   flutter_test:
